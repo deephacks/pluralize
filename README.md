@@ -1,4 +1,4 @@
 
-# suggest
+# pluralize
 
-Given a list of words from stdin, provide suggestions using damerau-levenshtein.
+Pluralize words à la ruby on rails.
